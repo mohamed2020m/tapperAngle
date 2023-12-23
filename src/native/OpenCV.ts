@@ -1,0 +1,4 @@
+/* eslint-disable prettier/prettier */
+import {NativeModules} from 'react-native';
+
+export default NativeModules.RNOpenCvLibrary;
